@@ -7,6 +7,6 @@ public class Parent {
 	}
 	public void salary() {
 		System.out.println("Salary");
-	}
+	}    
 
 }
