@@ -6,7 +6,7 @@ public class Runner {
 					System.out.println ("Salary");
 				} 
 			}; 
-			parent.education();
+			parent.education();   
 			parent.work();
 			parent.salary();
 			Parent child =new Parent();
