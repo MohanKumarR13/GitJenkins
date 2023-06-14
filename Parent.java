@@ -3,7 +3,7 @@ public class Parent {
 		System.out.println("Study");
 	}
 	public void work() {
-		System.out.println("Working");
+		System.out.println("Working"); 
 	}
 	public void salary() {
 		System.out.println("Salary");
