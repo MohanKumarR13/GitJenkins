@@ -5,7 +5,7 @@ public class Runner {
 				public void salary() {
 					System.out.println("Salary");
 				} 
-			};
+			}; 
 			parent.education();
 			parent.work();
 			parent.salary();
