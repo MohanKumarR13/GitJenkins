@@ -3,7 +3,7 @@ public class Runner {
 			
 			Parent parent=new Parent() {
 				public void salary() {
-					System.out.println("Salary");
+					System.out.println ("Salary");
 				} 
 			}; 
 			parent.education();
