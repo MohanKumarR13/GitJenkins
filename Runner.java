@@ -4,7 +4,7 @@ public class Runner {
 			Parent parent=new Parent() {
 				public void salary() {
 					System.out.println("Salary");
-				}
+				} 
 			};
 			parent.education();
 			parent.work();
@@ -12,5 +12,5 @@ public class Runner {
 			Parent child =new Parent();
 			child.salary();
 		}
-		
+	
 }
